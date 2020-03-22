@@ -1,0 +1,32 @@
+Started GET "/" for 10.0.2.2 at 2020-03-22 03:25:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 575ms (Views: 16.2ms)
+
+
+Started GET "/" for 10.0.2.2 at 2020-03-22 03:37:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.2ms)
+Completed 200 OK in 452ms (Views: 17.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2020-03-22 03:37:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.2ms)
+Completed 200 OK in 3ms (Views: 2.3ms)
+
+
+Started GET "/" for 10.0.2.2 at 2020-03-22 03:37:16 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 4ms (Views: 2.3ms)
+
+
